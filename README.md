@@ -14,7 +14,7 @@ See my blog [Making a neural network with Numpy](https://Link)
 - **[Tensorflow](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist)** - to use the mnist dataset.
 ### install requirements
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Jupyter notebook
