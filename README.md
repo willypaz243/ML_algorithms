@@ -6,7 +6,7 @@ In this repository I will implement Machine Learning algorithms using only the N
 
 This is a neural network implementation.
 
-See my blog [Making a neural network with Numpy](https://Link)
+See my blog [Making a neural network with Numpy](https://blog.scesi.umss.edu.bo/how-to-make-a-neural-network-in-few-code-lines-with-python)
 
 ## requirements
 - **[Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html)**
